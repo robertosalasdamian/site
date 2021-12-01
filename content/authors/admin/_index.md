@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Nelson XYZ
 role: Professor of Artificial Intelligence
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
