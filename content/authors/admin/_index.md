@@ -1,6 +1,6 @@
 ---
-title: Nelson XYZ
-role: Professor of Artificial Intelligence
+title: Roberto Salas
+role: PhD Student in Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northwestern University
+    url: https://www.mccormick.northwestern.edu/computer-science/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD Student in Computer Science "
+      institution: Northwestern University
+      year: 2026
+    - course: Master in Business Administration - MBA
+      institution: INSEAD
+      year: 2018
+    - course: BSc in Electronics Engineering
+      institution: Pontifical Catholic University of Peru
+      year: 2006
 email: ""
 superuser: true
 highlight_name: true
